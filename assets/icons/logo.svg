@@ -1,0 +1,8 @@
+<svg width="128" height="148" viewBox="0 0 128 148" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M64 4L116 22V77C116 110 95 131 64 144C33 131 12 110 12 77V22L64 4Z" fill="#111111" stroke="#FF6A00" stroke-width="6"/>
+  <path d="M64 16L104 30V76C104 102 88 120 64 132C40 120 24 102 24 76V30L64 16Z" fill="#161616" stroke="#FF6A00" stroke-width="2" opacity="0.9"/>
+  <text x="64" y="41" text-anchor="middle" fill="#FFFFFF" font-size="18" font-family="Arial, sans-serif" font-weight="700">SAKO</text>
+  <text x="64" y="79" text-anchor="middle" fill="#FFFFFF" font-size="38" font-family="Arial, sans-serif" font-weight="900">TFC</text>
+  <circle cx="64" cy="103" r="10" fill="#FF6A00"/>
+  <path d="M64 95L68 100H74L69 104L71 110L64 106L57 110L59 104L54 100H60L64 95Z" fill="#111111"/>
+</svg>
